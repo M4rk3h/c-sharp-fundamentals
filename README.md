@@ -1,0 +1,1 @@
+Going over the _C# Fundamentals_ found on PluralSight for my personal development whilst working.
